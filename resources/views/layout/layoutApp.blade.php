@@ -9,7 +9,7 @@
 <body>
     <div style="background-color: aqua; height: 100px; ">This is header</div>
 @yield('content')
-    <div style="background-color: rgb(38, 255, 0); height: 100px">This is footer</div>
+    <div style="background-color: brown; height: 100px">This is footer</div>
 
 </body>
 </html>
